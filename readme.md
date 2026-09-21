@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # FinDoc Extractor 
 
 **Lightweight ML-powered financial document extraction system** for annual reports, prospectuses, and invoices.
